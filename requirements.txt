@@ -1,0 +1,8 @@
+python -m venv venv
+source venv/bin/activate # Use 'venv\Scripts\activate' on Windows
+4.  **Install Libraries:**
+```bash
+pip install -r requirements.txt
+5.  **Run the Script:**
+```bash
+python penalty_analysis.py
